@@ -14,3 +14,5 @@ Cette action est réalisée pour rendre l'historique d'une branche locale claire
 * merge de commit
 * suppression commit
 * ordonnacement de commits
+* découpage de commits
+* ...
