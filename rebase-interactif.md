@@ -11,3 +11,4 @@ Cette action est réalisée pour rendre l'historique d'une branche locale claire
 ## Posibilités offertes par la fonctionnalité
 
 * modification des commentaires d'un commit
+* merge de commit
